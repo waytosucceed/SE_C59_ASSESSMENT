@@ -4,7 +4,7 @@ var score = 0;
 var Ansgiven = []; // Store answers given by the user
 var topicName = ''; // Variable to store the topic name
 const submitSound = document.getElementById("submit-sound");
-let timeLeft = 40 * 60; // 45 minutes in seconds
+let timeLeft = 45 * 60; // 45 minutes in seconds
 let timerId = null;
 
 const uniqueKey = "THINIKING SKILL MOCK TEST 1";
