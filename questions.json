@@ -1,0 +1,452 @@
+{
+  "heading": "THINIKING SKILL MOCK TEST 1",
+  "topics": [
+    {
+      "heading": "THINIKING SKILL MOCK TEST 1",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "In a school music contest, there are four rounds, and each performer participates in two of them. The finalists are all those who place in the top two in any one of the rounds.<br> <b>Amira:</b> \"Liam placed higher than Sofia in round one, so if Sofia makes it to the final, then Liam will too.\"<br> Which one of the following sentences shows the mistake Amira has made?",
+          "options": [
+            { "text": "Liam may not perform as well in his other round." },
+            { "text": "Sofia may not perform against Liam again in her other round." },
+            { "text": "Sofia may qualify because of her result in a different round." },
+            { "text": "Liam may have had more lessons than Sofia before the contest." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 2,
+          "question": "Many wild animals are very protective during the breeding season. If they sense that their place has been disturbed, they may leave everything behind—even if they've already given birth.<br><b> Jonas:</b> “My neighbor accidentally approached a fox den while walking. So there’s a good chance the fox may leave the area.”<br><b> Camila:</b> “We saw an abandoned raccoon nest in our backyard. That must have been disturbed too.”<br> If the information in the box is true, whose reasoning is correct?",
+          "options": [
+            { "text": "Jonas only" },
+            { "text": "Camila only" },
+            { "text": "Both Jonas and Camila" },
+            { "text": "Neither Jonas nor Camila" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 3,
+          "question": "A tech developer claims: “We must keep upgrading our apps constantly. If we stop updating, users will leave for competitors.”<br> Which of the following, if true, most weakens the developer’s argument?",
+          "options": [
+            { "text": "Users say they dislike frequent changes to the apps they use." },
+            { "text": "Most app users check for updates at least once a month." },
+            { "text": "The app industry is one of the fastest-growing sectors." },
+            { "text": "Developers often compete to release new versions first." }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 4,
+          "question": "Emily and Niko play video games together often. They’re usually evenly matched and win about the same number of games over time.<br><b> Coach Dean:</b> “I don’t remember how many matches they played last week, but I know Niko won 6. So they must have played around 12 games.”<br> Which one of the following sentences shows the mistake Coach Dean has made?",
+          "options": [
+            { "text": "One of them might have performed unusually well last week." },
+            { "text": "They usually play games after homework, not before." },
+            { "text": "They’re usually both competitive, so it’s always close." },
+            { "text": "Winning isn't as important as enjoying the game." }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "It’s often said that plastic takes hundreds of years to decompose. This is supported by the fact that plastic bottles from the 1980s found in landfills still appear intact. This clearly shows that plastic doesn't break down quickly.<br> Which of the following statements, if true, most weakens the argument?",
+          "options": [
+            { "text": "Not all types of plastic are used for bottles." },
+            { "text": "Landfills are dry and air-tight, which slows decomposition." },
+            { "text": "Most people recycle plastics instead of throwing them away." },
+            { "text": "Many biodegradable plastics break down in just a few months." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          "question": "When students are removed from the school's drama club, it’s usually because the director believes they haven’t been performing well. Occasionally, a student is removed for not showing up to rehearsals regularly.<br><b> Naomi:</b> “The director said she’s going to drop Ezra, even though he acted really well in the last show! He must have missed some rehearsals.”<br><b> Ava: </b>“If he attended every rehearsal and acted even better, he definitely wouldn’t be removed.” <br>Whose reasoning is correct?",
+          "options": [
+            { "text": "Naomi only" },
+            { "text": "Ava only" },
+            { "text": "Both Naomi and Ava" },
+            { "text": "Neither Naomi nor Ava" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 7,
+          "question": "Engineer Sasha argues that building more highways doesn’t solve traffic problems in growing cities.<br> She claims that more roads encourage more driving, which leads to even more congestion.<br> Which one of the following statements, if true, most strengthens Sasha’s argument?",
+          "options": [
+            { "text": "New highways can make commuting more efficient in the short term." },
+            { "text": "Other cities have seen traffic increase shortly after expanding their road networks." },
+            { "text": "Public transport alternatives are not always reliable." },
+            { "text": "Most traffic jams occur during morning and evening commutes." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "A science fair field trip is being planned. It will only happen if at least 25 students sign up.<br> Additionally, there must be enough staff—at least one adult per 10 students.<br><b> Leo:</b> “As long as three teachers can come, the trip will still happen.” <br><b>Isla:</b> “If the trip is cancelled, it’s because not enough students signed up.”<br> Whose reasoning is correct?",
+          "options": [
+            { "text": "Leo only" },
+            { "text": "Isla only" },
+            { "text": "Both Leo and Isla" },
+            { "text": "Neither Leo nor Isla" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 9,
+          "question": "Omar wants to try out for the school’s swim team. To qualify, swimmers must be at least 145 cm tall.<br><b> Tariq:</b> “Omar was 144 cm last year, and now he’s 146 cm, so he’s definitely going to be picked.” <br>Which one of the following shows the mistake Tariq has made?",
+          "options": [
+            { "text": "Omar might not actually like swimming that much." },
+            { "text": "The team might not have enough spaces for new swimmers." },
+            { "text": "Height might not be the only requirement to join the team." },
+            { "text": "Other sports might also have height requirements." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "Every member of the school’s book club casts a vote to pick the next book to read. Everyone must vote, and the book with the most votes is selected.<br> This month, 25 members are voting and there are 6 books to choose from.<br><b> Nora:</b> “The winning book must receive at least 5 votes.”<br><b> Arjun:</b> “If a book gets 13 votes, it will definitely be chosen.”<br> Whose reasoning is correct?",
+          "options": [
+            { "text": "Nora only" },
+            { "text": "Arjun only" },
+            { "text": "Both Nora and Arjun" },
+            { "text": "Neither Nora nor Arjun" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 11,
+          "question": "Some people argue that investing in deep sea exploration is a waste of resources. They say that instead of funding expeditions to explore the ocean floor, governments should prioritize solving problems like poverty and education. Although scientists gain knowledge about marine life, critics believe that this research doesn’t do much to improve life above sea level. <br>Which one of these statements, if true, most weakens the above argument?",
+          "options": [
+            { "text": "Most scientists working in oceanography receive private funding." },
+            { "text": "Research from ocean expeditions has led to breakthroughs in cancer treatments." },
+            { "text": "Some government budgets for science have been reduced in recent years." },
+            { "text": "New underwater vehicles can now reach greater depths than ever before." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "In a board game called “Orbit Clash,” there are three kinds of game chips: 2-point chips, 5-point chips, and 10-point chips. Each type of chip is stored in its own stack, and all stacks contain the same number of chips.<br> Two of the stacks together have a total value of 96 points. What is the total value of the third stack?",
+          "options": [
+            { "text": "34 points" },
+            { "text": "36 points" },
+            { "text": "40 points" },
+            { "text": "54 points" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "Otters are known to hide their favorite rocks in safe places. Biologists noticed that:<ul><li> Some otters hide their rocks again if they notice another otter watching them.</li><li> Only otters that have previously stolen rocks from others do this behavior.</li></ul> <b>Derek:</b> “That proves otters can guess which other otters might steal from them.”<br> <b>Jasmine:</b> “If an otter hides a rock again, it definitely means someone has stolen from it before.”<br> Whose reasoning is correct?",
+          "options": [
+            { "text": "Derek only" },
+            { "text": "Jasmine only" },
+            { "text": "Both Derek and Jasmine" },
+            { "text": "Neither Derek nor Jasmine" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 14,
+          "question": "The abilities needed for surfing, snowboarding, and skateboarding are closely related.<ul><li> Anyone who can surf can also snowboard.</li><li> Anyone who can surf can also skateboard.</li><li> Not everyone who can snowboard can surf.</li><li> Anyone who can skateboard can also surf.</li></ul> <b>Maya:</b> “Liam has been skateboarding for a year. He should be good at snowboarding.” <br><b>Carlos:</b> “Noah can’t surf, so he won’t be able to skateboard either.”<br> Whose reasoning is correct?",
+          "options": [
+            { "text": "Maya only" },
+            { "text": "Carlos only" },
+            { "text": "Both Maya and Carlos" },
+            { "text": "Neither Maya nor Carlos" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 15,
+          "question": "Jared says we should stop buying clothing made from synthetic fibers. “Producing polyester and nylon releases microplastics into the oceans,” Jared explains. “Switching to cotton clothing is the only way to protect our marine ecosystems.”<br> Which one of the following, if true, most weakens Jared’s argument?",
+          "options": [
+            { "text": "Many companies now recycle synthetic fabrics to reduce waste." },
+            { "text": "Cotton is more expensive to produce than polyester." },
+            { "text": "The demand for cotton clothing is rising every year." },
+            { "text": "Growing cotton uses large amounts of pesticides that pollute rivers." }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 16,
+          "question": "In Starvia, there are five types of coins: nors, kepps, lutas, dars, and fens.<br> 1 kepp = 3 nors, 1 luta = 2 kepps, 1 dar = 2 lutas, 1 fen = 3 dars.<br> How many nors are there in 1 fen?",
+          "options": [
+            { "text": "24" },
+            { "text": "36" },
+            { "text": "48" },
+            { "text": "72" },
+            { "text": "108" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "Some sets of three-letter names can be arranged so that no two consecutive names share any letters.<br> Example: LIZ, BEN, TOM, KAY, JOE.<br> Here’s another such set, with one name missing: TIM, DAN, RAY, MIA.<br> Which name could be the missing one?",
+          "options": [
+            { "text": "TAD" },
+            { "text": "NUE" },
+            { "text": "MEL" },
+            { "text": "ROB" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 18,
+          "question": "Liam and Ethan are cousins. Their aunt told them they can only attend the school festival if they finish their chores.<br> <b>Priya:</b> “Ethan is staying home, but Liam went to the festival, so Ethan must not have done his chores.”<br><b> Harper:</b> “Liam definitely did his chores if he was allowed to go.”<br> Whose reasoning is correct?",
+          "options": [
+            { "text": "Priya only" },
+            { "text": "Harper only" },
+            { "text": "Both Priya and Harper" },
+            { "text": "Neither Priya nor Harper" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 19,
+          "question": "Each of the fifteen tiles in a special game set features one of three distinct icons: a star, a diamond, or a hexagon.<br> Inside each icon is written a number between 1 and 9. No two tiles are exactly alike.<br> The only number that appears in both a diamond and a hexagon is 7.<br> Which of the following statements must be true?",
+          "options": [
+            { "text": "Each icon appears on exactly five tiles." },
+            { "text": "There are at least five tiles that show a star." },
+            { "text": "There are at least five tiles that show a diamond." },
+            { "text": "There are at least five tiles that show a hexagon." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "At Millbrook High, students completed a survey about how they relax before bed. The survey revealed that students who played music before sleeping tended to sleep fewer hours than those who did not.<br><b>Aisha:</b> “That proves that playing music before bed keeps students awake longer.”<br> Which one of the following shows the mistake in Aisha’s reasoning?",
+          "options": [
+            { "text": "Maybe students play music because they already struggle to sleep." },
+            { "text": "Maybe some students are listening to educational podcasts, not music." },
+            { "text": "Maybe students with more homework are more likely to play music." },
+            { "text": "Maybe some students live in noisy areas, so they play music to relax." }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 21,
+          "question": "Principal Gomez believes schools should reduce homework, arguing that excessive assignments can harm students’ motivation and well-being.<br> Which of the following, if true, most strengthens Principal Gomez’s argument?",
+          "options": [
+            { "text": "Some students perform well in school regardless of how much homework they are given." },
+            { "text": "Homework teaches students how to manage time effectively." },
+            { "text": "Students who spend more time on homework tend to report feeling more stressed and less interested in learning." },
+            { "text": "Parental support can improve students’ homework habits." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 22,
+          "question": "The head of Southridge High says: “Fitness classes should include solo activities like yoga and cycling, rather than focusing only on team sports such as basketball or hockey. Many students dislike being compared to others or competing in front of peers.”<br> Which of the following, if true, most strengthens the head’s argument?",
+          "options": [
+            { "text": "Team sports help build strong communication skills." },
+            { "text": "Individual sports are equally effective for improving overall health." },
+            { "text": "Some students attend PE only when team sports are offered." },
+            { "text": "Students often form friendships through team-based activities." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 23,
+          "question": "At a wildlife center, there are four owls: Nova, Arlo, Tiki, and Sol. Staff observed the following patterns:<ul><li> If an owl eats berries, it also eats seeds.</li><li> If an owl eats seeds, it also eats worms.</li><li> No owl that eats seeds also eats nuts.</li></ul> Which one of the following must be true?",
+          "options": [
+            { "text": "If Nova eats nuts, she also eats berries." },
+            { "text": "If Arlo does not eat nuts, he does not eat seeds." },
+            { "text": "If Tiki eats nuts, she does not eat berries." },
+            { "text": "If Sol doesn’t eat berries, he doesn’t eat seeds." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 24,
+          "question": "<br><img width='60%' src='./assests/images/1.png'><br>Which of the following pieces will fit with the above four white pieces to make a 6 × 6 square?<br><img width='60%' src='./assests/images/2.png'>",
+          "options": [
+            { "text": "1 only" },
+            { "text": "3 only" },
+            { "text": "1 and 3" },
+            { "text": "1 and 2" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 25,
+          "question": "“On average, people who eat spicy food tend to drink more water.”<br> <b>Sanjay:</b> “You drank three glasses of water during lunch, so your food must have been spicy.” <br><b>Lena:</b> “Not necessarily, maybe it was just a hot day.”<br> Whose reasoning is correct?",
+          "options": [
+            { "text": "Sanjay only" },
+            { "text": "Lena only" },
+            { "text": "Both Sanjay and Lena" },
+            { "text": "Neither Sanjay nor Lena" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 26,
+          "question": "Six friends — Zara, Leo, Priya, Omar, Nina, and Ben — are sitting around a circular table.<ul><li> Ben is sitting directly opposite Omar.</li><li> Zara is to the immediate left of Priya.</li><li> Nina is between Leo and Ben.</li></ul> Who is sitting directly opposite Zara?",
+          "options": [
+            { "text": "Leo" },
+            { "text": "Nina" },
+            { "text": "Omar" },
+            { "text": "either A or B" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 27,
+          "question": "Statement: “Students who get less than six hours of sleep perform worse in exams.”<br> <b>Jacob:</b> “I only slept five hours last night. That means I will definitely fail today’s test.”<br> What assumption is Jacob making?",
+          "options": [
+            { "text": "That his test is harder than average." },
+            { "text": "That the study’s result applies to him individually." },
+            { "text": "That all students perform equally when well-rested." },
+            { "text": "That five hours of sleep is always harmful." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 28,
+          "question": "Look at this sequence of numbers: 7, 14, 11, 22, 19, 38, ?<br> What number should come next in the sequence?",
+          "options": [
+            { "text": "31" },
+            { "text": "35" },
+            { "text": "43" },
+            { "text": "41" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 29,
+          "question": "Data shows that students who walk to school score higher in geography than those who are driven.<br> <b>Ria:</b> “Walking must improve geography skills.” <br><b>Caleb:</b> “Maybe those who walk just have more interest in the world around them.”<br> Whose reasoning is stronger?",
+          "options": [
+            { "text": "Ria only" },
+            { "text": "Caleb only" },
+            { "text": "Both Ria and Caleb" },
+            { "text": "Neither Ria nor Caleb" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 30,
+          "question": "How many distinct five-letter words (real or not) can be made using the letters: A, E, R, T, M <br>if no letter is repeated, and the word must begin with a vowel?",
+          "options": [
+            { "text": "24" },
+            { "text": "36" },
+            { "text": "48" },
+            { "text": "60" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 31,
+          "question": "In Mr. Patel’s history class, the student who achieves the greatest improvement in their score between any two consecutive weeks wins a reward.<br><img width='60%' src='./assests/images/4.png'><br> Who wins the reward for the highest improvement between two consecutive weeks?",
+          "options": [
+            { "text": "Nia" },
+            { "text": "Farid" },
+            { "text": "Leo" },
+            { "text": "Amara" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 32,
+          "question": "Jeremy rents a delivery van for three days to complete jobs across several towns. The cost is $90 per day, and fuel is $1.20 per litre. The van travels 6 km per litre.<br><b>Jobs:</b><ul><li>On Monday, Hondmarket to Targhill</li><li>On Tuesday, Targhill to Kingburg</li><li>On Wednesday, Kingburg to Hondmarket</li></ul><img width='60%' src='./assests/images/5.png'><br>If Jeremy earns $600 for the week, what is his profit?",
+          "options": [
+            { "text": "$136.80" },
+            { "text": "$126.00" },
+            { "text": "$154.50" },
+            { "text": "$143.20" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 33,
+          "question": "Lena sells cakes:<ul><li>Small: $3</li><li>Medium: $5</li><li>Large: $7</li></ul>Max has $41 to buy 11 cakes, using all his money. <br>Which of the following combinations could Max buy?",
+          "options": [
+            { "text": "9 small, 2 large" },
+            { "text": "10 medium, 1 small" },
+            { "text": "5 medium, 6 small" },
+            { "text": "6 small, 2 medium, 3 large" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 34,
+          "question": "Jared and Alina are discussing the impact of reality TV on viewers.<br>Alina says it’s harmless entertainment because it doesn’t reflect real life.<br>Jared responds: “That’s not accurate. What people watch regularly affects how they think and act. Reality TV often promotes unhealthy values and can negatively influence behaviour.”<br>Which of the following statements, if true, most strengthens Jared’s argument?",
+          "options": [
+            { "text": "Viewers often understand that reality TV is scripted and exaggerated." },
+            { "text": "Reality TV shows help people feel less alone by sharing personal stories. " },
+            { "text": "People can choose to watch educational programming instead." },
+            { "text": "Surveys show that people imitate fashion and slang from reality TV stars." }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 35,
+          "question": "Dr. Yuan, an environmental scientist, claims that while raising public awareness about nature is important, allowing unrestricted access to protected wetlands damages them long-term.<br>Which of the following statements, if true, most strengthens Dr. Yuan’s argument?",
+          "options": [
+            { "text": "Local communities enjoy having walking trails through the wetlands." },
+            { "text": "The number of people interested in conservation is increasing." },
+            { "text": "Several rare plant species in wetlands have been destroyed by foot traffic." },
+            { "text": "It is difficult to completely stop people from entering natural reserves." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 36,
+          "question": "Emma wants to buy 10 muffins. Chocolate muffins cost $2 each, and blueberry muffins cost $3 each. She wants to spend exactly $25.<br>How many chocolate muffins could Emma have bought?",
+          "options": [
+            { "text": "5" },
+            { "text": "6" },
+            { "text": "7" },
+            { "text": "8" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 37,
+          "question": "Renee lives in Cape Town, and her cousin Theo lives in Seoul. Cape Town is 7 hours behind Seoul.<br>Renee wants to call Theo on Sunday evening at 9:00 PM her time. Theo is only available for phone calls between 6:00 AM and 10:00 AM his time.<br>Can Renee make the call during Theo’s available hours?",
+          "options": [
+            { "text": "Yes, it will be 7:00 AM in Seoul" },
+            { "text": "Yes, it will be 6:00 AM in Seoul" },
+            { "text": "No, it will be 4:00 AM in Seoul" },
+            { "text": "No, it will be 3:00 AM in Seoul" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 38,
+          "question": "A chess tournament has 6 players. Each player must play every other player once.<br>Each match takes 15 minutes, and there is a 5-minute break between matches.<br>What is the minimum time needed to complete all matches?",
+          "options": [
+            { "text": "2 hours" },
+            { "text": "2 hour 55 minutes" },
+            { "text": "1 hour" },
+            { "text": "1 hour 55 minutes" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 39,
+          "question": "In a code language, each vowel is replaced by the letter two places ahead in the alphabet and each consonant is replaced by the letter one place before it.<br>What is the code for the word “HOPE”?",
+          "options": [
+            { "text": "GNRC" },
+            { "text": "INQD" },
+            { "text": "GQOG" },
+            { "text": "IPQD" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 40,
+          "question": "Tariq and Maya are discussing the effects of social media on teenagers.<br>Maya claims that social media helps teens stay connected and is overall beneficial.<br>Tariq replies: “That’s overly optimistic. Numerous studies show social media can contribute to anxiety, poor self-image, and even depression.”<br>Which of the following, if true, most strengthens Tariq’s argument?",
+          "options": [
+            { "text": "A recent study showed that teenagers who use social media heavily report more negative emotions." },
+            { "text": "Social media platforms offer tools to help users manage screen time." },
+            { "text": "Not all teenagers experience mental health issues from using social media." },
+            { "text": "Social media companies invest in mental health campaigns." }
+          ],
+          "answer": 0
+        }
+      ]
+      
+    }
+  ]
+}
